@@ -22,11 +22,13 @@ body {
 
 .nav_list {
   width: 50%;
+  /* background-color: aqua; */
   display: flex;
   align-items: center;
 }
 .nav_right {
   width: 50%;
+  /* background-color: aquamarine; */
   text-align: center;
   margin-left: 5px;
 }
