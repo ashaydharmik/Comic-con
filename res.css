@@ -1,0 +1,55 @@
+/* navbar */
+
+.logo img{
+    width: 35px;
+}
+.one h1{
+    width: 570px;
+    display: flex;
+}
+.first{
+    width: 472px;
+}
+.navbar .nav_list {
+    width: 74%;
+}
+
+.nav_list li {
+    list-style: none;
+    padding: 17px;
+}
+
+
+/* shows */
+
+.box1{
+    display: table-caption;
+}
+.box2{
+    display: table-caption;
+}
+
+/* partners */
+.sponcer_one{
+    display: table-caption;
+}
+.sponcer_two{
+    display: table-caption;
+}
+
+/* heading2 */
+.content h2{
+  width: 500px;
+}
+
+/* footer */
+.last-one img{
+    margin-right: 90px;
+}
+.last-two{
+    width: 231px;
+}
+.last{
+    margin: 20px 8px;
+    width: 450px;
+}

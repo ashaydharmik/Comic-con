@@ -1,0 +1,46 @@
+/* navbar */
+
+.navbar .nav_list {
+    width: 46%;
+    display: flex;
+    flex-flow: column;
+}
+.nav_list li {
+    list-style: none;
+    padding: 2px;
+}
+.nav_right {
+    width: 50%;
+    /* background-color: aquamarine; */
+    text-align: center;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.nav_right .btn {
+    margin-top: 13px;
+    width: 120px;
+}
+.one{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.two{
+    padding-top: 0px;
+    margin-top: 13px;
+}
+.one h1 {
+    width: 520px;
+    display: flex;
+    font-size: 36px;
+}
+.box{
+    width: 538px;
+    margin-right: 150px;
+}
+
+/* heading */
+.htwo p{
+    font-size: 20px;
+    padding-top: 10px;
+}
